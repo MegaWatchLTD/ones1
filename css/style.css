@@ -501,8 +501,7 @@ Back to Top
 /*================================================
 Button Core
 ================================================*/
-input[type="button"],
-[type="reset"],
+input[type="reset"],
 [type="submit"] {
     padding: 12px 30px;
     font-family: var(--title-fonts);
