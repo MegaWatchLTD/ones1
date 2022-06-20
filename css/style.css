@@ -6352,7 +6352,7 @@ Icon-Box
 /*
 div input[type=button]{
     font-family: Cairo;
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50;
     color: white;
     padding: 5px 20px;
     text-align: center;
@@ -6375,7 +6375,7 @@ div input[type=button]:focus{
 @media only screen and (max-width: 700px) {
   div input[type=button]{
     font-family: Cairo;
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50; 
     border: none;
     color: white;
     padding: 2px 10px;
@@ -6393,7 +6393,7 @@ div input[type=button]:focus{
 @media only screen and (max-width: 500px) {
   div input[type=button]{
     font-family: Cairo;
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50; 
     border: none;
     color: white;
     padding: 2px 10px;
