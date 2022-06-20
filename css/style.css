@@ -524,7 +524,6 @@ input[type="reset"],
     -webkit-transition: all 0.5s ease-in-out;
 }
 
-[type="button"]:hover,
 [type="reset"]:hover,
 [type="submit"]:hover {
     color: var(--white-color) !important;
