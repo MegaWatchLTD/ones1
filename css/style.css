@@ -253,7 +253,6 @@ table th {
 }
 
 /*===== Input Textarea =====*/
-/*
 input,
 input.form-control {
     background: var(--black-color);
@@ -285,7 +284,7 @@ textarea:hover,
     border-color: var(--primarydark-color);
     outline: none;
 }
-*/
+
 input[type="radio"],
 input[type="checkbox"] {
     width: auto;
@@ -6350,6 +6349,7 @@ Icon-Box
 }
 
 /*===========================================================================================================*/
+/*
 div input[type=button]{
     font-family: Cairo;
     background-color: #4CAF50; /* Green */
@@ -6408,3 +6408,4 @@ div input[type=button]:focus{
 
 }
 }
+*/
