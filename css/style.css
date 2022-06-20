@@ -253,6 +253,7 @@ table th {
 }
 
 /*===== Input Textarea =====*/
+/*
 input,
 input.form-control {
     background: var(--black-color);
@@ -284,7 +285,7 @@ textarea:hover,
     border-color: var(--primarydark-color);
     outline: none;
 }
-
+*/
 input[type="radio"],
 input[type="checkbox"] {
     width: auto;
