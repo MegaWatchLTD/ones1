@@ -2,8 +2,8 @@ function changeurl1(){
    document.getElementById("Ep1-1").setAttribute("href", "https://myviid.com/embed-hd42mkq8fb69.html");
    document.getElementById("Ep1-2").setAttribute("href", "https://myviid.com/embed-hd42mkq8fb69.html");
 
-   document.getElementById("Ep2-1").setAttribute("href", "             ");
-   document.getElementById("Ep2-2").setAttribute("href", "             ");
+   document.getElementById("Ep2-1").setAttribute("href", "https://myviid.com/embed-ut0c3njqrn3h.html");
+   document.getElementById("Ep2-2").setAttribute("href", "https://myviid.com/embed-ut0c3njqrn3h.html");
 
    document.getElementById("Ep3-1").setAttribute("href", "             ");
    document.getElementById("Ep3-2").setAttribute("href", "             ");
@@ -67,8 +67,8 @@ function changeurl2(){
    document.getElementById("Ep1-1").setAttribute("href", "https://vidbam.org/embed-kox6rb85r6p9.html");
    document.getElementById("Ep1-2").setAttribute("href", "https://vidbam.org/embed-kox6rb85r6p9.html");
 
-   document.getElementById("Ep2-1").setAttribute("href", "             ");
-   document.getElementById("Ep2-2").setAttribute("href", "             ");
+   document.getElementById("Ep2-1").setAttribute("href", "https://vidbam.org/embed-wczyvno1to5p.html");
+   document.getElementById("Ep2-2").setAttribute("href", "https://vidbam.org/embed-wczyvno1to5p.html");
 
    document.getElementById("Ep3-1").setAttribute("href", "             ");
    document.getElementById("Ep3-2").setAttribute("href", "             ");
@@ -132,8 +132,8 @@ function changeurl3(){
    document.getElementById("Ep1-1").setAttribute("href", "https://uqload.com/embed-8asqyrs1i7q9.html");
    document.getElementById("Ep1-2").setAttribute("href", "https://uqload.com/embed-8asqyrs1i7q9.html");
 
-   document.getElementById("Ep2-1").setAttribute("href", "             ");
-   document.getElementById("Ep2-2").setAttribute("href", "             ");
+   document.getElementById("Ep2-1").setAttribute("href", "https://uqload.com/embed-eh553txfq6bz.html");
+   document.getElementById("Ep2-2").setAttribute("href", "https://uqload.com/embed-eh553txfq6bz.html");
 
    document.getElementById("Ep3-1").setAttribute("href", "             ");
    document.getElementById("Ep3-2").setAttribute("href", "             ");
@@ -198,8 +198,8 @@ function changeurl4(){
    document.getElementById("Ep1-1").setAttribute("href", "https://vudeo.io/embed-1j845jts4y42.html");
    document.getElementById("Ep1-2").setAttribute("href", "https://vudeo.io/embed-1j845jts4y42.html");
 
-   document.getElementById("Ep2-1").setAttribute("href", "      ");
-   document.getElementById("Ep2-2").setAttribute("href", "      ");
+   document.getElementById("Ep2-1").setAttribute("href", "https://vudeo.io/embed-5oorpf4k54rl.html");
+   document.getElementById("Ep2-2").setAttribute("href", "https://vudeo.io/embed-5oorpf4k54rl.html");
 
    document.getElementById("Ep3-1").setAttribute("href", "      ");
    document.getElementById("Ep3-2").setAttribute("href", "      ");
